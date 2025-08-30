@@ -132,3 +132,4 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td825/bh-s37.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td825/bh-s38.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td825/bh-s39.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td825/bh-s40.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td825/bh-sft.jpg
