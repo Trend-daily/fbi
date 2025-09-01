@@ -260,3 +260,4 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/cl-s6.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/cl-s7.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/cl-s8.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/cl-s9.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/cl-sft.jpg
