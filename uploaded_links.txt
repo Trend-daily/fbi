@@ -351,3 +351,7 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/bt-b1.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/bt-b2.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/bt-b3.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/bt-b4.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/bt-b5.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/bt-b6.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/bt-b7.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/bt-b8.jpg
