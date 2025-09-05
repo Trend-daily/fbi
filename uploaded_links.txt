@@ -434,3 +434,5 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/ac-w26.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/ac-w27.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/ac-w28.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/ac-wft.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/wb-s1.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/wb-s2.jpg
