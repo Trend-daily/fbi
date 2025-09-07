@@ -470,3 +470,4 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/wbi-bs17.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/wbi-bs18.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/wbi-bs19.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/wbi-bs20.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/olaplex.jpg
