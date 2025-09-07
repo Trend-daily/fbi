@@ -471,3 +471,7 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/wbi-bs18.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/wbi-bs19.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/wbi-bs20.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/olaplex.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/carol.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/mielle.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/mulberry.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/tgin.jpg
