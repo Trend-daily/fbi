@@ -496,3 +496,4 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/ca-o17.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/ca-o18.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/ca-o19.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/ca-o20.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/ca-oft.jpg
