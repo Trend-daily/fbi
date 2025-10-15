@@ -659,3 +659,4 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/hm-i6.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/hm-i7.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/hm-i8.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/hm-i9.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/hm-ift.jpg
