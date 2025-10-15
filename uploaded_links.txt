@@ -661,3 +661,16 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/hm-i8.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/hm-i9.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td925/hm-ift.jpg
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nfi-ft.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f1.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f10.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f11.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f12.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f2.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f3.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f4.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f5.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f6.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f7.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f8.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/na-f9.jpg
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nfi-ft.jpg
