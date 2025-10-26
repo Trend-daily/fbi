@@ -878,3 +878,14 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nnl7.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nnl8.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nnl9.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nnlft.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nbdt1.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nbdt10.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nbdt2.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nbdt3.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nbdt4.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nbdt5.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nbdt6.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nbdt7.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nbdt8.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nbdt9.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nbdtft.webp
