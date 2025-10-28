@@ -950,3 +950,4 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/tgdi8.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/tgdi9.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/tgdift.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/thdi6.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/tgdi6.webp
