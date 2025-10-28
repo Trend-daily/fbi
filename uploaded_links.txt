@@ -974,3 +974,4 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nnid6.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nnid8.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nnid9.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nnidft.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/nnid7.webp
