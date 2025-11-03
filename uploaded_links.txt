@@ -1053,3 +1053,11 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/bhfl7.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/bhfl8.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/bhfl9.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/bhflft.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/wsf1.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/wsf2.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/wsf3.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/wsf4.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/wsf5.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/wsf6.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/wsf7.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/wsfft.webp
