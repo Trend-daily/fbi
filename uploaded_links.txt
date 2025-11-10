@@ -1070,3 +1070,5 @@ https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/whtr6.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/whtr7.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/whtr8.webp
 https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/whtrft.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/phcrft.webp
+https://cdn.jsdelivr.net/gh/Trend-daily/fbi@main/td1025/whcrft.webp
